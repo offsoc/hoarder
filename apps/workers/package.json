@@ -8,7 +8,7 @@
     "@hoarder/queue": "workspace:^0.1.0",
     "@hoarder/shared": "workspace:^0.1.0",
     "@hoarder/tsconfig": "workspace:^0.1.0",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@tsconfig/node21": "^21.0.1",
     "async-mutex": "^0.4.1",
     "dompurify": "^3.0.9",
